@@ -7,11 +7,7 @@ Below are links to GSuite files.  Local .pdf copies of these files are periodica
 ## Team 2890 Handbook and Contract (2018)
 https://docs.google.com/document/d/12EQuX9DaThTQ1EQS3PGKzVlZFElw8CkOhll41jxHluY/edit?usp=sharing
 
-## Training Materials
-
-### Java Programming Guide
-https://docs.google.com/presentation/d/1sSDVGMIaUvd3fiOjg9cdvbgQqJr7okUbFaYOy3HcV6s/edit
-
+## Achievement Materials
 ### Mechanical Level 1
 https://docs.google.com/presentation/d/1afdyd1Ln4b_7ET5zpsmmTgq5VAh4Lgm4FqV9QZvmYpM/edit?usp=sharing
 
@@ -33,6 +29,18 @@ https://docs.google.com/presentation/d/1eKLgLupR_cIG6qHNxtDR8ajGlrNQ89o7cN4L--2w
 ### Electrical Level 3
 https://docs.google.com/presentation/d/1h1CpowXN0Eyqs9RsSaRyfLd5A2M0Go03onU2MTDC724/edit?usp=sharing
 
+### Pneumatics Level 1
+https://docs.google.com/presentation/d/16BwJkEn33W6H7X1cL4XoQbcnVsaojT-WBoEm6UIuRvY/edit?usp=sharing
+
+### Pneumatics Level 2
+https://docs.google.com/presentation/d/1eNavCKvm2hRN_miXN3A7kXfyphxepIYvuOte1jmiGK4/edit?usp=sharing
+
+
+## Training Materials
+
+### Java Programming Guide
+https://docs.google.com/presentation/d/1sSDVGMIaUvd3fiOjg9cdvbgQqJr7okUbFaYOy3HcV6s/edit
+
 ### Agile Project Management
 https://docs.google.com/presentation/d/1rmv0LhyVUDthA42xChWzmQeMT2qr-DQmnREWeVHxgow/edit?usp=sharing 
 
@@ -42,11 +50,7 @@ https://docs.google.com/presentation/d/1TUDCwVk4LSxkQgnqPrFv8akPKrk-Ux4f6k3G3kBv
 ### Giving Feedback
 https://docs.google.com/presentation/d/1xxcNztxCzCXn1caQKeRL1chUKxdv1NpmQFe61TeUMtY/edit?usp=sharing
 
-### Pneumatics Level 1
-https://docs.google.com/presentation/d/16BwJkEn33W6H7X1cL4XoQbcnVsaojT-WBoEm6UIuRvY/edit?usp=sharing
 
-### Pneumatics Level 2
-https://docs.google.com/presentation/d/1eNavCKvm2hRN_miXN3A7kXfyphxepIYvuOte1jmiGK4/edit?usp=sharing
 
 ## Organizational Documents
 
